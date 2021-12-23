@@ -57959,6 +57959,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EvG67NNXyM3yHk13EpjV8JgzdLgAuydR8au1zKpiGmkt",
+      "symbol": "ANCHOR",
+      "name": "Anchor Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JanJaap61/anchorwallet/main/anchorPNG.png",
+      "tags": [
+        "anchor-token",
+        "BlockExchange"
+      ]
     }
   ],
   "version": {
